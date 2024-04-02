@@ -1,21 +1,39 @@
 = Pixilart (Used in sprite creation) =
 https://www.pixilart.com/draw
+Created Sprites:
+- Almost all of the files in Assets\Sprites
 
-= Simple Sprite Editing Tutorial by The RealTime Essentials =
+= Simple Sprite Editing Tutorial by The RealTime Essentials (Helped with the creation of animated sprites) =
 https://www.youtube.com/watch?v=87cF8jqVpBA&ab_channel=TheRealTimeEssentials
+- Everything in Assets\Sprites\Animated Sprites
 
-= Shooting Tutorial =
+= Shooting Tutorial (Helped in the creation of several scripts) =
 https://www.youtube.com/watch?v=wkKsl1Mfp5M
+- Assets\Scripts\EnemyBehavior.cs (enemy death)
+- Assets\Scripts\EnemyBullet.cs (bullet movement)
+- Assets\Scripts\EnemyWeapon.cs (bullet creation)
+- Assets\Scripts\PlayerBullet.cs (bullet movement)
+- Assets\Scripts\PlayerWeapon.cs (bullet creation)
+- Assets\Scripts\ShipMovement.cs (damage triggers)
 
-= Tweening Plugin = 
+= Tweening Plugin (Helped in audio ducking script) = 
 https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
+- Assets\Plugins
+- Assets\Resources
+- Assets\Scripts\AudioPlayerScript.cs (contains methods "duckAudio()" and "unduckAudio()")
 
 = Music made with FL Studio =
 Plugin Used: Magical 8bit Plug 2 (https://ymck.net/app/magical-8bit-plug-en)
+- Assets\Sounds\shippie_2.mp3
 
 = Sound Effects =
-Death SFX (https://creatorassets.com/a/8bit-explosion-sound-effects)
+Damage and Death SFX (https://creatorassets.com/a/8bit-explosion-sound-effects)
+- Assets\Sounds\SFX\enemydeath.wav
+- Assets\Sounds\SFX\playerdamaged.wav
+- Assets\Sounds\SFX\playerdeath.wav
 Laser Fire (https://creatorassets.com/a/laser-shoot-sound-effects)
+- Assets\Sounds\SFX\fireLaser.wav
 
 = Main Menu Background =
 https://w0.peakpx.com/wallpaper/72/88/HD-wallpaper-stars-space-night-starry-sky.jpg
+- Assets\Sprites\menuBG.jpg
