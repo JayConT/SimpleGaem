@@ -1,0 +1,21 @@
+= Pixilart (Used in sprite creation) =
+https://www.pixilart.com/draw
+
+= Simple Sprite Editing Tutorial by The RealTime Essentials =
+https://www.youtube.com/watch?v=87cF8jqVpBA&ab_channel=TheRealTimeEssentials
+
+= Shooting Tutorial =
+https://www.youtube.com/watch?v=wkKsl1Mfp5M
+
+= Tweening Plugin = 
+https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676
+
+= Music made with FL Studio =
+Plugin Used: Magical 8bit Plug 2 (https://ymck.net/app/magical-8bit-plug-en)
+
+= Sound Effects =
+Death SFX (https://creatorassets.com/a/8bit-explosion-sound-effects)
+Laser Fire (https://creatorassets.com/a/laser-shoot-sound-effects)
+
+= Main Menu Background =
+https://w0.peakpx.com/wallpaper/72/88/HD-wallpaper-stars-space-night-starry-sky.jpg
